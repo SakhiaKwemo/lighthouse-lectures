@@ -1,7 +1,7 @@
 # Promises
 
 ## Resources
- - video: https://vimeo.com/681570813/3312c73711
+ - video: 
  - code repo: https://github.com/idbentley/lighthouse-lectures/tree/main/flex-w5d2-full-w2d4-promises
 
 ## Async Review
