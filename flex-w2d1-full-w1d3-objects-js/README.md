@@ -2,7 +2,9 @@
 
 ## Resources
  - Code Repo: https://github.com/idbentley/lighthouse-lectures/tree/main/flex-w2d1-full-w1d3-objects-js
- - Video: https://vimeo.com/672510780/dea0f13ebe
+ - Video: 
+ (P1) https://vimeo.com/754543234/2381d62d38
+ (P2) https://vimeo.com/754543278/95d58034e9
 
 
 ### Primitive Types
