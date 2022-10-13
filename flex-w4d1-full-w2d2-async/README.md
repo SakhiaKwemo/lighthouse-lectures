@@ -2,7 +2,7 @@
 
 ## Resources
  - Code Repo:https://github.com/idbentley/lighthouse-lectures/tree/main/flex-w4d1-full-w2d2-async
- - Video: https://vimeo.com/677889195/9f5e0a1f33
+ - Video: https://vimeo.com/759687141/499f782b4f
  - Slides: Checked into repo
 
 ### Recap callbacks
