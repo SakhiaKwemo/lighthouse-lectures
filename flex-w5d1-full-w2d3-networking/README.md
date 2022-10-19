@@ -1,7 +1,7 @@
 # Networking with TCP and HTTP
 
 ## Resources
-- Lecture Recording: https://vimeo.com/680604798/e07313bb38
+- Lecture Recording: https://vimeo.com/761878404/033a2fdcb9
 - Code:  https://github.com/idbentley/lighthouse-lectures/tree/main/flex-w5d1-full-w2d3-networking
 - Slides (in this repo)
 
